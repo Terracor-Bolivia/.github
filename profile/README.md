@@ -6,4 +6,6 @@
 ## Propuesta
 
 
-## Propuesta
+## Maqueta de la app
+
+Para la maqueta en linea sigue el siguiente link a [figma](https://www.figma.com/file/JN0jsdO9thzC03C1O1L0DA/Terracor?type=design&node-id=22-122&mode=design&t=ru82BWvoPgVRI3bi-0)
