@@ -2,8 +2,7 @@
 
 ## Introducción
 
-La empresa Terracor Sistema Administrativo: SAS Orange Group
-- 
+La empresa Terracor Sistema Administrativo: SAS Orange Group 
 
 ## Investigación
 
