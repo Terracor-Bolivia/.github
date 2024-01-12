@@ -2,6 +2,17 @@
 
 ## Introducción
 
+## Investigación
+
+Investigacion y resultados obtenidos en la misma.
+
+- Dueño: Carlos Terrazas  +59172150638
+- Encargado de sistemas: Ruddy  +59176656009
+- Sistema Administrativo: SAS Orange Group
+- Encargado: Jhoel   +59175616697
+
+- web:
+- 
 
 ## Propuesta
 
