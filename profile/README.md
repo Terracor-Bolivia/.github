@@ -14,7 +14,7 @@ Investigacion y resultados obtenidos en la misma.
 |------|------|------|------|
 |Dueño|Carlos Terrazas|+59172150638|calberto.terrazas@terracor.com.bo|
 |Encargado de sistemas|Ruddy Vargas|+59176656009|sistemas@terracor.com.bo|
-|Encargado de orange|Jhoel|++59175616697|jhoel@orangegroup.com.bo|
+|Encargado de orange|Jhoel|+59175616697|jhoel@orangegroup.com.bo|
 
 ## Propuesta
 
