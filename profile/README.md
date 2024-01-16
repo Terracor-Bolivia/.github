@@ -3,4 +3,4 @@
 # Bienvenido a Terracorp
 
 
-(https://www.figma.com/file/JN0jsdO9thzC03C1O1L0DA/Terracor?type=design&mode=design&t=DXA9L8wju3RCkw7G-0)[Figma]
+[Figma](https://www.figma.com/file/JN0jsdO9thzC03C1O1L0DA/Terracor?type=design&mode=design&t=DXA9L8wju3RCkw7G-0)
