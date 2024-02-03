@@ -8,3 +8,7 @@
 
 # Inicio de carga
 ![Screencastfrom02-03-2024015905AM-ezgif com-video-to-gif-converter (1)](https://github.com/Terracor-Bolivia/.github/assets/72888760/d70e9c08-427a-4a1f-865e-b1125cafa294)
+
+# Registro de pagos
+![Uploading Screencastfrom02-03-2024021647AM-ezgif.com-video-to-gif-converter.gif…]()
+
