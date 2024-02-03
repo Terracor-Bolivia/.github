@@ -12,4 +12,8 @@
 # Registro de pagos
 [Screencast from 02-03-2024 02:16:47 AM.webm](https://github.com/Terracor-Bolivia/.github/assets/72888760/c38b79d5-1102-4fe1-8eba-92d5bad0995e)
 
+# COtización de urbanización
+file:///home/servisofts/Videos/Screencasts/Screencast%20from%2002-03-2024%2002:36:26%20AM.webm
+
+
 
