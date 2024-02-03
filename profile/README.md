@@ -4,3 +4,7 @@
 
 
 [Figma](https://www.figma.com/file/JN0jsdO9thzC03C1O1L0DA/Terracor?type=design&mode=design&t=DXA9L8wju3RCkw7G-0)
+
+
+# Inicio de carga
+![Screencastfrom02-03-2024015905AM-ezgif com-video-to-gif-converter (1)](https://github.com/Terracor-Bolivia/.github/assets/72888760/d70e9c08-427a-4a1f-865e-b1125cafa294)
