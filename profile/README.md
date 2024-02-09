@@ -17,7 +17,7 @@ Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (
 ### Inicio
 La vista de todos los servicios ofrecidos por la app.
 
-![00-home](https://github.com/Terracor-Bolivia/.github/assets/72888760/1ff71572-4478-480d-a62e-10b662ffe18d)
+![00-home (1)](https://github.com/Terracor-Bolivia/.github/assets/72888760/ee0a571d-89b6-42a3-88c0-ea6088a94074)
 
 
 ### Registro de pagos
