@@ -18,6 +18,7 @@ Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (
 
 
 ### Registro de pagos
+Por medio de la aplicación el usuario podrá cancelar las cuotas de sus propiedades de una manera fácil y sencilla. Llevar mejor control de sus pagos y saldos.
 
 ![Screencast-from-02-08-2024-11_16_09-PM](https://github.com/Terracor-Bolivia/.github/assets/72888760/75b379c8-0af1-4cde-907e-a1727dcea721)
 
