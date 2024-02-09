@@ -24,8 +24,25 @@ Por medio de la aplicación el usuario podrá cancelar las cuotas de sus propied
 
 
 
+### Cotización de urbanización
 
-# Cotización de urbanización
+
+## Vistas en App
+- Carga
+- Intro 1
+- Intro 2
+- Intro 3
+- Menù
+- Inicio
+- Pagos
+  - Login
+  - Lista de propiedades
+  - Cuotas
+  - Detalle de pago
+  - Qr generado
+  - Pago exitoso
+  - Error de pago
+- 
 
 
 
