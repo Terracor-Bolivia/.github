@@ -8,7 +8,7 @@
 
 ## Características de aplicación
 
-### Ingreso a la app.
+### Ingreso a la app
 Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (splash screen) que generalmente muestra el logo o el nombre de la app. Esta pantalla sirve como una introducción visual mientras se cargan los recursos necesarios para la aplicación. El splash screen suele ser minimalista y está diseñado para mantener la atención del usuario durante el breve tiempo de carga.
 
 ![Screencast from 02-08-2024 10_43_36 PM](https://github.com/Terracor-Bolivia/.github/assets/72888760/a901328f-f556-418e-af8c-c700af4543bd)
@@ -16,8 +16,10 @@ Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (
 
 
 
-# Registro de pagos
-[Screencast from 02-03-2024 02:16:47 AM.webm](https://github.com/Terracor-Bolivia/.github/assets/72888760/c38b79d5-1102-4fe1-8eba-92d5bad0995e)
+### Registro de pagos
+
+![Screencast-from-02-03-2024-02_16_47-AM](https://github.com/Terracor-Bolivia/.github/assets/72888760/caa764c2-052f-49b7-a3e1-f8ff8399ed3c)
+
 
 # Cotización de urbanización
 file:///home/servisofts/Videos/Screencasts/Screencast%20from%2002-03-2024%2002:36:26%20AM.webm
