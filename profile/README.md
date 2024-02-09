@@ -5,6 +5,10 @@
 
 [Figma](https://www.figma.com/file/JN0jsdO9thzC03C1O1L0DA/Terracor?type=design&mode=design&t=DXA9L8wju3RCkw7G-0)
 
+## Características de aplicación
+
+### Ingreso a la app.
+Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (splash screen) que generalmente muestra el logo o el nombre de la app. Esta pantalla sirve como una introducción visual mientras se cargan los recursos necesarios para la aplicación. El splash screen suele ser minimalista y está diseñado para mantener la atención del usuario durante el breve tiempo de carga.
 
 # Inicio de carga
 ![Screencastfrom02-03-2024015905AM-ezgif com-video-to-gif-converter (1)](https://github.com/Terracor-Bolivia/.github/assets/72888760/d70e9c08-427a-4a1f-865e-b1125cafa294)
