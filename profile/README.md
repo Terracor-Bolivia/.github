@@ -27,7 +27,6 @@ Por medio de la aplicación el usuario podrá cancelar las cuotas de sus propied
 
 # Cotización de urbanización
 
-file:///home/servisofts/Videos/Screencasts/Screencast%20from%2002-03-2024%2002:36:26%20AM.webm
 
 
 
