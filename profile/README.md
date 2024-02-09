@@ -19,7 +19,7 @@ Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (
 
 ### Registro de pagos
 
-![Screencast-from-02-03-2024-02_16_47-AM](https://github.com/Terracor-Bolivia/.github/assets/72888760/caa764c2-052f-49b7-a3e1-f8ff8399ed3c)
+![Screencast-from-02-08-2024-11_00_16-PM](https://github.com/Terracor-Bolivia/.github/assets/72888760/edff6442-4733-4103-9b70-436c7ae7feff)
 
 
 # Cotización de urbanización
