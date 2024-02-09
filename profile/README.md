@@ -26,16 +26,20 @@ Por medio de la aplicación el usuario podrá cancelar las cuotas de sus propied
 ![Screencast-from-02-08-2024-11_16_09-PM](https://github.com/Terracor-Bolivia/.github/assets/72888760/75b379c8-0af1-4cde-907e-a1727dcea721)
 
 
-
 ### Cotización de urbanización
 El usuario podrá cotizar el terreno en la urbanización de su preferencia para adquirirla.
 
-![Screencast-from-02-09-2024-12_10_19-AM](https://github.com/Terracor-Bolivia/.github/assets/72888760/8cbf8c69-2115-46d5-a9eb-83cc97814131)
+[Screencast from 02-09-2024 12:21:56 AM.webm](https://github.com/Terracor-Bolivia/.github/assets/72888760/66ee1d08-32fd-48dc-9ce7-d9b5ab45cfa3)
+
 
 ### Cotización condominio
 El usuario podrá cotizar la casa en el condominio de su preferencia para adquirirla.
 
-![Screencast-from-02-09-2024-12_10_42-AM](https://github.com/Terracor-Bolivia/.github/assets/72888760/7af2ed00-74a8-42ef-aea9-c7fb088b6e65)
+![Screencast from 02-09-2024 12_28_03 AM](https://github.com/Terracor-Bolivia/.github/assets/72888760/36f754bb-34d5-4bee-abe0-9dc7267edbf4)
+
+
+
+
 
 
 ## Vistas en App
