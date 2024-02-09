@@ -10,6 +10,7 @@
 
 ### Ingreso a la app.
 Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (splash screen) que generalmente muestra el logo o el nombre de la app. Esta pantalla sirve como una introducción visual mientras se cargan los recursos necesarios para la aplicación. El splash screen suele ser minimalista y está diseñado para mantener la atención del usuario durante el breve tiempo de carga.
+
 ![Screencast from 02-08-2024 10_43_36 PM](https://github.com/Terracor-Bolivia/.github/assets/72888760/a901328f-f556-418e-af8c-c700af4543bd)
 
 
