@@ -57,7 +57,19 @@ El usuario podrá cotizar la casa en el condominio de su preferencia para adquir
   - Qr generado
   - Pago exitoso
   - Error de pago
-- 
+- Urbanizaciones
+  - Lista de urbanizaciones
+  - Perfil
+  - Plano
+- Condominios
+  - Lista de condominios
+  - Perfil
+  - Plano
+  - Modelos de casa
+- Alquiler (* por definir funcionalidad)
+- Servicios (* Limpieza, plomería, eléctrica, etc por definir funcionalidad)
+- Promociones (* por definir funcionalidad)  
+ 
 
 
 
