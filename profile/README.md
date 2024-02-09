@@ -13,6 +13,8 @@ Al abrir la aplicación, los usuarios son recibidos por una pantalla de inicio (
 
 # Inicio de carga
 ![Screencastfrom02-03-2024015905AM-ezgif com-video-to-gif-converter (1)](https://github.com/Terracor-Bolivia/.github/assets/72888760/d70e9c08-427a-4a1f-865e-b1125cafa294)
+file:///home/servisofts/Downloads/Screencast%20from%2002-08-2024%2010_43_36%20PM.gif
+
 
 # Registro de pagos
 [Screencast from 02-03-2024 02:16:47 AM.webm](https://github.com/Terracor-Bolivia/.github/assets/72888760/c38b79d5-1102-4fe1-8eba-92d5bad0995e)
